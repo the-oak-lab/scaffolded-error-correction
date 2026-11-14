@@ -1,3 +1,5 @@
+# Data and code for "Turning Errors into Successes: Designing LLM Tutoring Around Scaffolded Error Correction"
+
 | File | Description |
 |---|---|
 | `anonymized_data.csv` | A dataset with all variables needed to reproduce analyses reported in the manuscript and Supplementary Material. One row per participant. |
